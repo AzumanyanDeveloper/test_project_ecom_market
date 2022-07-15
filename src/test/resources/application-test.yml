@@ -1,0 +1,4 @@
+ip-addresses:
+  limiter:
+   time: 1
+   count: 3

@@ -1,0 +1,7 @@
+ip-addresses:
+  limiter:
+   time: 1
+   count: 3
+server:
+  servlet:
+    context-path: /api/v1
